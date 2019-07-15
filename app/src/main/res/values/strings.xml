@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="about">About ALC</string>
+    <string name="profile">My profile</string>
+    <string name="name">Hussaini Bashir Yakasai</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Nigeria</string>
+    <string name="mail">Email: hussainibashiryakasai@gmail.com</string>
+    <string name="number">Phone Number: 0906 832 2545</string>
+    <string name="slack">Slack Username: @bashir</string>
+</resources>
